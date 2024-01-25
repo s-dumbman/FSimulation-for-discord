@@ -5,4 +5,4 @@
 Script - Telescot (mr-Pjohn) // Support - Naturalconstant (-), Glasyalabolas (-)
 
 # Way Help
-FSimulation_main.py 실행 후 디스코드 인버터에 입력
+FSimulation_main.py 실행 후 디스코드 인버터에 입력 (FSimulation_exmaple.jpg 참고)
