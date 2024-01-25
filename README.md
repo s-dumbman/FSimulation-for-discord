@@ -5,4 +5,4 @@
 Script - Telescot (mr-Pjohn) // Support - Naturalconstant (-), Glasyalabolas (-)
 
 # Way Help
-After running FSimulation_main.py for python, insert discord and enjoy
+FSimulation_main.py 실행 후 디스코드 인버터에 입력
