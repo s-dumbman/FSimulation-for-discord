@@ -4,3 +4,5 @@
 # Credit
 Script - Telescot (mr-Pjohn) // Support - Naturalconstant (-), Glasyalabolas (-)
 
+# Way Help
+After running FSimulation_main.py for python, insert discord and enjoy
